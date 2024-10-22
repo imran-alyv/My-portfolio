@@ -1,23 +1,13 @@
-title: Imran Aliyev # your name (or website title) here
-logo: "/images/Imran Aliyev's digital photo-photoaidcom-cropped.jpg?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a dedicated data analyst with a strong background in statistics and a passion for uncovering insights through data. I specialize in transforming complex information into actionable recommendations, helping organizations make informed decisions. I continuously strive to enhance my skills in data analysis and contribute effectively to data-driven initiatives. 
+  First description 
   <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
-  <a href="https://www.linkedin.com/in/imran-alyv/">View My LinkedIn Profile<https://www.linkedin.com/in/imran-alyv/> 
-
-  remote_theme: pages-themes/minimal@v0.2.0
-
-
-
-
-
-
-
-
-
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-  
-
