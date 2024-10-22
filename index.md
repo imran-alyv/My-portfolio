@@ -5,7 +5,8 @@
 ### Transforming Raw Data into Business Intelligence: Power BI in Action 
 
 [Project 1 Title](/sample_page)
-<img src="dddd.jpg?raw=true"/>
+<img src="images/dddd.jpg?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
