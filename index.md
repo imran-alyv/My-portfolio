@@ -11,33 +11,5 @@ The dashboard presents: 118K total deaths, 1,676 new deaths, and 1M recovered ca
 A line chart tracks the progression of the pandemic over the year, highlighting important monthly trends in deaths, new cases, and recoveries. For example, in March, there were 213 deaths, 33 new deaths, and 94 recoveries, showing the pandemic's intensity during that period.
 The dashboard enables users to filter data by time period (year, quarter, or month) to gain deeper insights into the spread and recovery patterns of COVID-19 in Poland. By using dynamic visuals and interactive elements, this analysis helps communicate the pandemic's ongoing effects in an easily digestible format for decision-makers and the general public.  from this text change this sentence to a better Through dynamic visuals and interactive elements, this analysis effectively conveys the ongoing impact of the pandemic in a clear and accessible format, facilitating informed decision-making for policymakers and enhancing public understanding.
 
-
-
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px
 <!-- Remove above link if you don't want to attibute -->
