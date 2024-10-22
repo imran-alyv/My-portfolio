@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Transforming Raw Data into Business Intelligence: Power BI in Action 
 
 [Project 1 Title](/sample_page)
 <img src="Screenshot_1.png?raw=true"/>
