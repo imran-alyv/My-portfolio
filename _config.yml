@@ -1,5 +1,6 @@
 title: Imran Aliyev # your name (or website title) here
-logo: "/images/imran photo.png?raw=true" # your photo (or logo) here
+logo: "/My-portfolio/images
+/imran photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   This Power BI project visualizes the impact of COVID-19 in Poland by analyzing key metrics such as deaths, new deaths, new recoveries, and total recoveries. The dashboard presents:
 
